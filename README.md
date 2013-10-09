@@ -1,4 +1,4 @@
-ploufometre
+Le ploufomètre
 ===========
 
 Carte de la qualité des eaux de baignage (publié sur le Nouvel Obs)
